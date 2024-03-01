@@ -1,0 +1,10 @@
+C:\Users\ilkay\source\repos\5. Ders\5. Ders\bin\Debug\_5.Ders.exe.config
+C:\Users\ilkay\source\repos\5. Ders\5. Ders\bin\Debug\_5.Ders.exe
+C:\Users\ilkay\source\repos\5. Ders\5. Ders\bin\Debug\_5.Ders.pdb
+C:\Users\ilkay\source\repos\5. Ders\5. Ders\obj\Debug\5. Ders.csproj.AssemblyReference.cache
+C:\Users\ilkay\source\repos\5. Ders\5. Ders\obj\Debug\_5.Ders.Form1.resources
+C:\Users\ilkay\source\repos\5. Ders\5. Ders\obj\Debug\_5.Ders.Properties.Resources.resources
+C:\Users\ilkay\source\repos\5. Ders\5. Ders\obj\Debug\5. Ders.csproj.GenerateResource.cache
+C:\Users\ilkay\source\repos\5. Ders\5. Ders\obj\Debug\5. Ders.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\source\repos\5. Ders\5. Ders\obj\Debug\_5.Ders.exe
+C:\Users\ilkay\source\repos\5. Ders\5. Ders\obj\Debug\_5.Ders.pdb

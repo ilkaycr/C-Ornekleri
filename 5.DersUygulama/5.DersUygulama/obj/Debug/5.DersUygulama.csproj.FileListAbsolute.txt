@@ -1,0 +1,20 @@
+C:\Users\ilkay\source\repos\5.DersUygulama\5.DersUygulama\bin\Debug\5.DersUygulama.exe.config
+C:\Users\ilkay\source\repos\5.DersUygulama\5.DersUygulama\bin\Debug\5.DersUygulama.exe
+C:\Users\ilkay\source\repos\5.DersUygulama\5.DersUygulama\bin\Debug\5.DersUygulama.pdb
+C:\Users\ilkay\source\repos\5.DersUygulama\5.DersUygulama\obj\Debug\5.DersUygulama.csproj.AssemblyReference.cache
+C:\Users\ilkay\source\repos\5.DersUygulama\5.DersUygulama\obj\Debug\_5.DersUygulama.Form1.resources
+C:\Users\ilkay\source\repos\5.DersUygulama\5.DersUygulama\obj\Debug\_5.DersUygulama.Properties.Resources.resources
+C:\Users\ilkay\source\repos\5.DersUygulama\5.DersUygulama\obj\Debug\5.DersUygulama.csproj.GenerateResource.cache
+C:\Users\ilkay\source\repos\5.DersUygulama\5.DersUygulama\obj\Debug\5.DersUygulama.csproj.CoreCompileInputs.cache
+C:\Users\ilkay\source\repos\5.DersUygulama\5.DersUygulama\obj\Debug\5.DersUygulama.exe
+C:\Users\ilkay\source\repos\5.DersUygulama\5.DersUygulama\obj\Debug\5.DersUygulama.pdb
+C:\C# Form belgeler\5.DersUygulama\5.DersUygulama\bin\Debug\5.DersUygulama.exe.config
+C:\C# Form belgeler\5.DersUygulama\5.DersUygulama\bin\Debug\5.DersUygulama.exe
+C:\C# Form belgeler\5.DersUygulama\5.DersUygulama\bin\Debug\5.DersUygulama.pdb
+C:\C# Form belgeler\5.DersUygulama\5.DersUygulama\obj\Debug\5.DersUygulama.csproj.AssemblyReference.cache
+C:\C# Form belgeler\5.DersUygulama\5.DersUygulama\obj\Debug\_5.DersUygulama.Form1.resources
+C:\C# Form belgeler\5.DersUygulama\5.DersUygulama\obj\Debug\_5.DersUygulama.Properties.Resources.resources
+C:\C# Form belgeler\5.DersUygulama\5.DersUygulama\obj\Debug\5.DersUygulama.csproj.GenerateResource.cache
+C:\C# Form belgeler\5.DersUygulama\5.DersUygulama\obj\Debug\5.DersUygulama.csproj.CoreCompileInputs.cache
+C:\C# Form belgeler\5.DersUygulama\5.DersUygulama\obj\Debug\5.DersUygulama.exe
+C:\C# Form belgeler\5.DersUygulama\5.DersUygulama\obj\Debug\5.DersUygulama.pdb
