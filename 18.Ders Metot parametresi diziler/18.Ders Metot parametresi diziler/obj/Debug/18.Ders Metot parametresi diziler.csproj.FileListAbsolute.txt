@@ -1,0 +1,10 @@
+C:\C# Form belgeler\18.Ders Metot parametresi diziler\18.Ders Metot parametresi diziler\bin\Debug\18.Ders Metot parametresi diziler.exe.config
+C:\C# Form belgeler\18.Ders Metot parametresi diziler\18.Ders Metot parametresi diziler\bin\Debug\18.Ders Metot parametresi diziler.exe
+C:\C# Form belgeler\18.Ders Metot parametresi diziler\18.Ders Metot parametresi diziler\bin\Debug\18.Ders Metot parametresi diziler.pdb
+C:\C# Form belgeler\18.Ders Metot parametresi diziler\18.Ders Metot parametresi diziler\obj\Debug\18.Ders Metot parametresi diziler.csproj.AssemblyReference.cache
+C:\C# Form belgeler\18.Ders Metot parametresi diziler\18.Ders Metot parametresi diziler\obj\Debug\_18.Ders_Metot_parametresi_diziler.Form1.resources
+C:\C# Form belgeler\18.Ders Metot parametresi diziler\18.Ders Metot parametresi diziler\obj\Debug\_18.Ders_Metot_parametresi_diziler.Properties.Resources.resources
+C:\C# Form belgeler\18.Ders Metot parametresi diziler\18.Ders Metot parametresi diziler\obj\Debug\18.Ders Metot parametresi diziler.csproj.GenerateResource.cache
+C:\C# Form belgeler\18.Ders Metot parametresi diziler\18.Ders Metot parametresi diziler\obj\Debug\18.Ders Metot parametresi diziler.csproj.CoreCompileInputs.cache
+C:\C# Form belgeler\18.Ders Metot parametresi diziler\18.Ders Metot parametresi diziler\obj\Debug\18.Ders Metot parametresi diziler.exe
+C:\C# Form belgeler\18.Ders Metot parametresi diziler\18.Ders Metot parametresi diziler\obj\Debug\18.Ders Metot parametresi diziler.pdb

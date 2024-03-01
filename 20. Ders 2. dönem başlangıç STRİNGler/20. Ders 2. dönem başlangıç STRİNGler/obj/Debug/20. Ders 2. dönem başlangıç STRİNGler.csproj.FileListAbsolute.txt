@@ -1,0 +1,10 @@
+C:\C# Form belgeler\20. Ders 2. dönem başlangıç STRİNGler\20. Ders 2. dönem başlangıç STRİNGler\bin\Debug\_20.Ders_2.dönem_başlangıç_STRİNGler.exe.config
+C:\C# Form belgeler\20. Ders 2. dönem başlangıç STRİNGler\20. Ders 2. dönem başlangıç STRİNGler\bin\Debug\_20.Ders_2.dönem_başlangıç_STRİNGler.exe
+C:\C# Form belgeler\20. Ders 2. dönem başlangıç STRİNGler\20. Ders 2. dönem başlangıç STRİNGler\bin\Debug\_20.Ders_2.dönem_başlangıç_STRİNGler.pdb
+C:\C# Form belgeler\20. Ders 2. dönem başlangıç STRİNGler\20. Ders 2. dönem başlangıç STRİNGler\obj\Debug\20. Ders 2. dönem başlangıç STRİNGler.csproj.AssemblyReference.cache
+C:\C# Form belgeler\20. Ders 2. dönem başlangıç STRİNGler\20. Ders 2. dönem başlangıç STRİNGler\obj\Debug\_20.Ders_2.dönem_başlangıç_STRİNGler.Form1.resources
+C:\C# Form belgeler\20. Ders 2. dönem başlangıç STRİNGler\20. Ders 2. dönem başlangıç STRİNGler\obj\Debug\_20.Ders_2.dönem_başlangıç_STRİNGler.Properties.Resources.resources
+C:\C# Form belgeler\20. Ders 2. dönem başlangıç STRİNGler\20. Ders 2. dönem başlangıç STRİNGler\obj\Debug\20. Ders 2. dönem başlangıç STRİNGler.csproj.GenerateResource.cache
+C:\C# Form belgeler\20. Ders 2. dönem başlangıç STRİNGler\20. Ders 2. dönem başlangıç STRİNGler\obj\Debug\20. Ders 2. dönem başlangıç STRİNGler.csproj.CoreCompileInputs.cache
+C:\C# Form belgeler\20. Ders 2. dönem başlangıç STRİNGler\20. Ders 2. dönem başlangıç STRİNGler\obj\Debug\_20.Ders_2.dönem_başlangıç_STRİNGler.exe
+C:\C# Form belgeler\20. Ders 2. dönem başlangıç STRİNGler\20. Ders 2. dönem başlangıç STRİNGler\obj\Debug\_20.Ders_2.dönem_başlangıç_STRİNGler.pdb

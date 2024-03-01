@@ -1,0 +1,10 @@
+C:\C# Form belgeler\22. Ders kelimleri alt alta\22. Ders kelimleri alt alta\bin\Debug\_22.Ders_kelimleri_alt_alta.exe.config
+C:\C# Form belgeler\22. Ders kelimleri alt alta\22. Ders kelimleri alt alta\bin\Debug\_22.Ders_kelimleri_alt_alta.exe
+C:\C# Form belgeler\22. Ders kelimleri alt alta\22. Ders kelimleri alt alta\bin\Debug\_22.Ders_kelimleri_alt_alta.pdb
+C:\C# Form belgeler\22. Ders kelimleri alt alta\22. Ders kelimleri alt alta\obj\Debug\22. Ders kelimleri alt alta.csproj.AssemblyReference.cache
+C:\C# Form belgeler\22. Ders kelimleri alt alta\22. Ders kelimleri alt alta\obj\Debug\_22.Ders_kelimleri_alt_alta.Form1.resources
+C:\C# Form belgeler\22. Ders kelimleri alt alta\22. Ders kelimleri alt alta\obj\Debug\_22.Ders_kelimleri_alt_alta.Properties.Resources.resources
+C:\C# Form belgeler\22. Ders kelimleri alt alta\22. Ders kelimleri alt alta\obj\Debug\22. Ders kelimleri alt alta.csproj.GenerateResource.cache
+C:\C# Form belgeler\22. Ders kelimleri alt alta\22. Ders kelimleri alt alta\obj\Debug\22. Ders kelimleri alt alta.csproj.CoreCompileInputs.cache
+C:\C# Form belgeler\22. Ders kelimleri alt alta\22. Ders kelimleri alt alta\obj\Debug\_22.Ders_kelimleri_alt_alta.exe
+C:\C# Form belgeler\22. Ders kelimleri alt alta\22. Ders kelimleri alt alta\obj\Debug\_22.Ders_kelimleri_alt_alta.pdb

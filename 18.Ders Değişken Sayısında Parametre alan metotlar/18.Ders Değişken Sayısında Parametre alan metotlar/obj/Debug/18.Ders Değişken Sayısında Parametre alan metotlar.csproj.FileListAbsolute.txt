@@ -1,0 +1,10 @@
+C:\C# Form belgeler\18.Ders Değişken Sayısında Parametre alan metotlar\18.Ders Değişken Sayısında Parametre alan metotlar\bin\Debug\18.Ders Değişken Sayısında Parametre alan metotlar.exe.config
+C:\C# Form belgeler\18.Ders Değişken Sayısında Parametre alan metotlar\18.Ders Değişken Sayısında Parametre alan metotlar\bin\Debug\18.Ders Değişken Sayısında Parametre alan metotlar.exe
+C:\C# Form belgeler\18.Ders Değişken Sayısında Parametre alan metotlar\18.Ders Değişken Sayısında Parametre alan metotlar\bin\Debug\18.Ders Değişken Sayısında Parametre alan metotlar.pdb
+C:\C# Form belgeler\18.Ders Değişken Sayısında Parametre alan metotlar\18.Ders Değişken Sayısında Parametre alan metotlar\obj\Debug\18.Ders Değişken Sayısında Parametre alan metotlar.csproj.AssemblyReference.cache
+C:\C# Form belgeler\18.Ders Değişken Sayısında Parametre alan metotlar\18.Ders Değişken Sayısında Parametre alan metotlar\obj\Debug\_18.Ders_Değişken_Sayısında_Parametre_alan_metotlar.Form1.resources
+C:\C# Form belgeler\18.Ders Değişken Sayısında Parametre alan metotlar\18.Ders Değişken Sayısında Parametre alan metotlar\obj\Debug\_18.Ders_Değişken_Sayısında_Parametre_alan_metotlar.Properties.Resources.resources
+C:\C# Form belgeler\18.Ders Değişken Sayısında Parametre alan metotlar\18.Ders Değişken Sayısında Parametre alan metotlar\obj\Debug\18.Ders Değişken Sayısında Parametre alan metotlar.csproj.GenerateResource.cache
+C:\C# Form belgeler\18.Ders Değişken Sayısında Parametre alan metotlar\18.Ders Değişken Sayısında Parametre alan metotlar\obj\Debug\18.Ders Değişken Sayısında Parametre alan metotlar.csproj.CoreCompileInputs.cache
+C:\C# Form belgeler\18.Ders Değişken Sayısında Parametre alan metotlar\18.Ders Değişken Sayısında Parametre alan metotlar\obj\Debug\18.Ders Değişken Sayısında Parametre alan metotlar.exe
+C:\C# Form belgeler\18.Ders Değişken Sayısında Parametre alan metotlar\18.Ders Değişken Sayısında Parametre alan metotlar\obj\Debug\18.Ders Değişken Sayısında Parametre alan metotlar.pdb
