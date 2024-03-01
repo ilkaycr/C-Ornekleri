@@ -1,0 +1,10 @@
+C:\C# Form belgeler\8.DersUygulamaDelta\8.DersUygulamaDelta\obj\Debug\8.DersUygulamaDelta.csproj.AssemblyReference.cache
+C:\C# Form belgeler\8.DersUygulamaDelta\8.DersUygulamaDelta\obj\Debug\_8.DersUygulamaDelta.Form1.resources
+C:\C# Form belgeler\8.DersUygulamaDelta\8.DersUygulamaDelta\obj\Debug\_8.DersUygulamaDelta.Properties.Resources.resources
+C:\C# Form belgeler\8.DersUygulamaDelta\8.DersUygulamaDelta\obj\Debug\8.DersUygulamaDelta.csproj.GenerateResource.cache
+C:\C# Form belgeler\8.DersUygulamaDelta\8.DersUygulamaDelta\obj\Debug\8.DersUygulamaDelta.csproj.CoreCompileInputs.cache
+C:\C# Form belgeler\8.DersUygulamaDelta\8.DersUygulamaDelta\bin\Debug\8.DersUygulamaDelta.exe.config
+C:\C# Form belgeler\8.DersUygulamaDelta\8.DersUygulamaDelta\bin\Debug\8.DersUygulamaDelta.exe
+C:\C# Form belgeler\8.DersUygulamaDelta\8.DersUygulamaDelta\bin\Debug\8.DersUygulamaDelta.pdb
+C:\C# Form belgeler\8.DersUygulamaDelta\8.DersUygulamaDelta\obj\Debug\8.DersUygulamaDelta.exe
+C:\C# Form belgeler\8.DersUygulamaDelta\8.DersUygulamaDelta\obj\Debug\8.DersUygulamaDelta.pdb

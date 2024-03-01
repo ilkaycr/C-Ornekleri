@@ -1,0 +1,10 @@
+C:\C# Form belgeler\7.DersUygulama\7.DersUygulama\bin\Debug\7.DersUygulama.exe.config
+C:\C# Form belgeler\7.DersUygulama\7.DersUygulama\bin\Debug\7.DersUygulama.exe
+C:\C# Form belgeler\7.DersUygulama\7.DersUygulama\bin\Debug\7.DersUygulama.pdb
+C:\C# Form belgeler\7.DersUygulama\7.DersUygulama\obj\Debug\7.DersUygulama.csproj.AssemblyReference.cache
+C:\C# Form belgeler\7.DersUygulama\7.DersUygulama\obj\Debug\_7.DersUygulama.Form1.resources
+C:\C# Form belgeler\7.DersUygulama\7.DersUygulama\obj\Debug\_7.DersUygulama.Properties.Resources.resources
+C:\C# Form belgeler\7.DersUygulama\7.DersUygulama\obj\Debug\7.DersUygulama.csproj.GenerateResource.cache
+C:\C# Form belgeler\7.DersUygulama\7.DersUygulama\obj\Debug\7.DersUygulama.csproj.CoreCompileInputs.cache
+C:\C# Form belgeler\7.DersUygulama\7.DersUygulama\obj\Debug\7.DersUygulama.exe
+C:\C# Form belgeler\7.DersUygulama\7.DersUygulama\obj\Debug\7.DersUygulama.pdb
