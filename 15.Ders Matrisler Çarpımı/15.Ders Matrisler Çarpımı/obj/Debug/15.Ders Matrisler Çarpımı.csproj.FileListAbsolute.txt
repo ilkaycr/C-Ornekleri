@@ -1,0 +1,10 @@
+C:\C# Form belgeler\15.Ders Matrisler Çarpımı\15.Ders Matrisler Çarpımı\obj\Debug\15.Ders Matrisler Çarpımı.csproj.AssemblyReference.cache
+C:\C# Form belgeler\15.Ders Matrisler Çarpımı\15.Ders Matrisler Çarpımı\obj\Debug\_15.Ders_Matrisler_Çarpımı.Form1.resources
+C:\C# Form belgeler\15.Ders Matrisler Çarpımı\15.Ders Matrisler Çarpımı\obj\Debug\_15.Ders_Matrisler_Çarpımı.Properties.Resources.resources
+C:\C# Form belgeler\15.Ders Matrisler Çarpımı\15.Ders Matrisler Çarpımı\obj\Debug\15.Ders Matrisler Çarpımı.csproj.GenerateResource.cache
+C:\C# Form belgeler\15.Ders Matrisler Çarpımı\15.Ders Matrisler Çarpımı\obj\Debug\15.Ders Matrisler Çarpımı.csproj.CoreCompileInputs.cache
+C:\C# Form belgeler\15.Ders Matrisler Çarpımı\15.Ders Matrisler Çarpımı\bin\Debug\15.Ders Matrisler Çarpımı.exe.config
+C:\C# Form belgeler\15.Ders Matrisler Çarpımı\15.Ders Matrisler Çarpımı\bin\Debug\15.Ders Matrisler Çarpımı.exe
+C:\C# Form belgeler\15.Ders Matrisler Çarpımı\15.Ders Matrisler Çarpımı\bin\Debug\15.Ders Matrisler Çarpımı.pdb
+C:\C# Form belgeler\15.Ders Matrisler Çarpımı\15.Ders Matrisler Çarpımı\obj\Debug\15.Ders Matrisler Çarpımı.exe
+C:\C# Form belgeler\15.Ders Matrisler Çarpımı\15.Ders Matrisler Çarpımı\obj\Debug\15.Ders Matrisler Çarpımı.pdb

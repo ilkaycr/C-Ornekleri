@@ -1,0 +1,10 @@
+C:\C# Form belgeler\14.Ders2MatrisToplama\14.Ders2MatrisToplama\obj\Debug\14.Ders2MatrisToplama.csproj.AssemblyReference.cache
+C:\C# Form belgeler\14.Ders2MatrisToplama\14.Ders2MatrisToplama\obj\Debug\_14.Ders2MatrisToplama.Form1.resources
+C:\C# Form belgeler\14.Ders2MatrisToplama\14.Ders2MatrisToplama\obj\Debug\_14.Ders2MatrisToplama.Properties.Resources.resources
+C:\C# Form belgeler\14.Ders2MatrisToplama\14.Ders2MatrisToplama\obj\Debug\14.Ders2MatrisToplama.csproj.GenerateResource.cache
+C:\C# Form belgeler\14.Ders2MatrisToplama\14.Ders2MatrisToplama\obj\Debug\14.Ders2MatrisToplama.csproj.CoreCompileInputs.cache
+C:\C# Form belgeler\14.Ders2MatrisToplama\14.Ders2MatrisToplama\bin\Debug\14.Ders2MatrisToplama.exe.config
+C:\C# Form belgeler\14.Ders2MatrisToplama\14.Ders2MatrisToplama\bin\Debug\14.Ders2MatrisToplama.exe
+C:\C# Form belgeler\14.Ders2MatrisToplama\14.Ders2MatrisToplama\bin\Debug\14.Ders2MatrisToplama.pdb
+C:\C# Form belgeler\14.Ders2MatrisToplama\14.Ders2MatrisToplama\obj\Debug\14.Ders2MatrisToplama.exe
+C:\C# Form belgeler\14.Ders2MatrisToplama\14.Ders2MatrisToplama\obj\Debug\14.Ders2MatrisToplama.pdb

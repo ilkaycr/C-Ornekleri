@@ -1,0 +1,10 @@
+C:\C# Form belgeler\15.Ders İdempotentMatris\15.Ders İdempotentMatris\bin\Debug\15.Ders İdempotentMatris.exe.config
+C:\C# Form belgeler\15.Ders İdempotentMatris\15.Ders İdempotentMatris\bin\Debug\15.Ders İdempotentMatris.exe
+C:\C# Form belgeler\15.Ders İdempotentMatris\15.Ders İdempotentMatris\bin\Debug\15.Ders İdempotentMatris.pdb
+C:\C# Form belgeler\15.Ders İdempotentMatris\15.Ders İdempotentMatris\obj\Debug\15.Ders İdempotentMatris.csproj.AssemblyReference.cache
+C:\C# Form belgeler\15.Ders İdempotentMatris\15.Ders İdempotentMatris\obj\Debug\_15.Ders_İdempotentMatris.Form1.resources
+C:\C# Form belgeler\15.Ders İdempotentMatris\15.Ders İdempotentMatris\obj\Debug\_15.Ders_İdempotentMatris.Properties.Resources.resources
+C:\C# Form belgeler\15.Ders İdempotentMatris\15.Ders İdempotentMatris\obj\Debug\15.Ders İdempotentMatris.csproj.GenerateResource.cache
+C:\C# Form belgeler\15.Ders İdempotentMatris\15.Ders İdempotentMatris\obj\Debug\15.Ders İdempotentMatris.csproj.CoreCompileInputs.cache
+C:\C# Form belgeler\15.Ders İdempotentMatris\15.Ders İdempotentMatris\obj\Debug\15.Ders İdempotentMatris.exe
+C:\C# Form belgeler\15.Ders İdempotentMatris\15.Ders İdempotentMatris\obj\Debug\15.Ders İdempotentMatris.pdb
